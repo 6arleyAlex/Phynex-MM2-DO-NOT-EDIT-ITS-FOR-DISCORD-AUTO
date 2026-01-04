@@ -13,7 +13,7 @@ WindUI:AddTheme({
 })
 
 local Window = WindUI:CreateWindow({
-    Title = "Phynex Hub🌿 | by 3xzls",
+    Title = "Phynex Hub🌿 | by 3xzls TEST ",
     Folder = "Phynex_Hub",
     Icon = "lucide:badge-check",
     Theme = "Default",
@@ -90,4 +90,5 @@ ElementsSection:Button({
 })
 
 MainTab:Select()
+
 
